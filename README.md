@@ -1,5 +1,5 @@
-# scala_tips
-Tips and tricks for your everyday Scala work
+# Scala Tips and Tricks!
+~hacks~ Tips and tricks For your everyday Scala work
 
 # SBT
 
